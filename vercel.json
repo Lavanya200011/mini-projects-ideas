@@ -8,8 +8,5 @@
         "distDir": "projects-list/dist"
       }
     }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/projects-list/$1" }
   ]
 }
