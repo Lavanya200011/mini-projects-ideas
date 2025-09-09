@@ -8,5 +8,11 @@
         "distDir": "projects-list/dist"
       }
     }
+  ],
+  "routes": [
+    {
+      "src": "/.*",
+      "dest": "/index.html"
+    }
   ]
 }
