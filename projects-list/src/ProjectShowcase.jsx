@@ -159,7 +159,7 @@ const projectIdeas = [
     making: "PHP forms with file upload. MySQL for storage."
   },
 
-<<<<<<< HEAD
+
     // 🔹 PHP + MySQL
     { title: "Library Management System", desc: "Add/remove books, issue/return, track availability.", category: "PHP" },
     { title: "Event Registration System", desc: "Students register for college events online.", category: "PHP" },
@@ -170,7 +170,7 @@ const projectIdeas = [
     { title: "Hostel/Room Allocation System", desc: "Assign students to hostel rooms.", category: "PHP" },
     { title: "E-commerce Cart (basic)", desc: "Add/remove products and view total.", category: "PHP" },
     { title: "Job Application Portal", desc: "Students apply for jobs, upload CVs, admin reviews.", category: "PHP" },
-=======
+
   // 🔹 Python + Flask/Django
   {
     title: "Online Quiz System",
@@ -203,7 +203,6 @@ const projectIdeas = [
     making: "Python backend with DB + frontend order form."
   }
 ];
->>>>>>> d5f3e14 (updated the existing front end file)
 
 function ProjectShowcase() {
   const [expandedIndex, setExpandedIndex] = useState(null);
