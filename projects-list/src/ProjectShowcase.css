@@ -69,3 +69,13 @@
   padding: 4px 8px;
   border-radius: 12px;
 }
+
+.details {
+  margin-top: 10px;
+  text-align: left;
+}
+
+.details h4 {
+  margin: 10px 0 5px;
+  color: #0077cc;
+}
