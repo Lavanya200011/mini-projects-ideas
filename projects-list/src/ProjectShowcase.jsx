@@ -26,7 +26,6 @@ export default function ProjectShowcase() {
     { title: "Habit Tracker", desc: "Track daily habits with streak progress.", category: "LocalStorage" },
 
     // 🔹 PHP + MySQL
-    { title: "Student Attendance System", desc: "Teachers mark attendance, students see reports.", category: "PHP" },
     { title: "Library Management System", desc: "Add/remove books, issue/return, track availability.", category: "PHP" },
     { title: "Event Registration System", desc: "Students register for college events online.", category: "PHP" },
     { title: "Online Voting System", desc: "Vote online for class leaders, one vote per user.", category: "PHP" },
